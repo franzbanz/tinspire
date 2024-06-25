@@ -27,6 +27,5 @@ For any questions or suggestions, please open an issue or reach out to me via Gi
 ---
 
 Enjoy using these programs, and I hope they aid you in your studies as they did for me!
-```
 
 Feel free to customize this further based on any additional details or preferences you have!
