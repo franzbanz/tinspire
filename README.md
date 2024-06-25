@@ -1,4 +1,3 @@
-```markdown
 # TI-Nspire CX CAS II University Programs
 
 This repository contains a collection of `.tns` calculator programs for the TI-Nspire CX CAS II. These programs were used by me and friends during our aerospacce engineering studies at the university of stuttgart. Feel free to explore and use them for your own academic needs.
