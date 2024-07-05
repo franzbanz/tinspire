@@ -14,14 +14,8 @@ This repository offers a collection of `.tns` calculator programs for the TI-Nsp
 
 1. Download the `.tns` files.
 2. Transfer them to the `MyLib` folder on your TI-Nspire CX CAS II.
-3. Open and run the programs in your scratchpad using the following command:
-```sh
-name\init()
-```
-4. Access the individual functions using their names.
-```sh
-func(var1, var2, X, var3)
-```
+3. Open and run the programs in your scratchpad using `program\init()`
+4. Access the individual functions `func(var1, var2, X, var3)`
 5. `X` will automatically be calculated
 
 ## Contributing
