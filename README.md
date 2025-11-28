@@ -13,7 +13,7 @@ This repository offers a collection of `.tns` calculator programs for the TI-Nsp
 ## Usage
 
 1. Download the `.tns` files.
-2. Transfer them to the `MyLib` folder on your TI-Nspire CX CAS II.
+2. Transfer them to the `MyLib` folder on your TI-Nspire CX CAS II using [this](https://nspireconnect.ti.com/nsc/invalid-platform) website.
 3. Open and run the programs in your scratchpad using `program\init()`
 4. Access the individual functions `func(var1, var2, X, var3)`
 5. `X` will automatically be calculated
