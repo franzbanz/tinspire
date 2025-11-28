@@ -5,7 +5,7 @@ This repository offers a collection of `.tns` calculator programs for the TI-Nsp
 ## Programs
 
 - **statik.tns**: Statics - Professor Ricken
-- **stromung.tns**: Fluid dynamics - Professor Krämer
+- **stromung.tns**: Fluid dynamics - Professor Krämer and Kessler
 - **thermo.tns**: Thermodynamics - Professor Weigand
 - **warme.tns**: Heat transfer and thermal radiation - Professor Lamanna and Poser
 - **schoner.tns**: A screensaver for fun
